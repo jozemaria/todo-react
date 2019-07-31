@@ -14,5 +14,9 @@ Agora é só esperar o navegador inicializar e visualizar a aplicação funciona
 
  - [x] React
 
+### Orientações dos projetos
+ - [Voltar para o README inicial](https://github.com/jozemaria/desafio-esig)
+
+ - [Aplicação Java + PostgreSQL](https://github.com/jozemaria/desafio-esig/blob/master/ORIENTACOES.md)
 
 > Feito por: **José Maria Jr** - *@jozemariajr*
